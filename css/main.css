@@ -1,0 +1,17 @@
+
+body {
+	background-color: blue;
+}
+
+@media(max-width: 600px) {
+
+	body {
+		background-color: purple;
+
+	}
+}
+
+.cta input {
+width: 80%;
+
+}
